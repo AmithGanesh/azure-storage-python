@@ -42,7 +42,7 @@ class ShareProperties(object):
     :ivar str etag:
         The ETag contains a value that you can use to perform operations
         conditionally.
-    :ivar int quote:
+    :ivar int quota:
         Returns the current share quota in GB.
     '''
 
